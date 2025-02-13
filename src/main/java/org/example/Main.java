@@ -10,6 +10,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Hello world!");
         System.out.println("Hello world!");
-        System.out.println("Hello i'm is hot-fix branch!");
+        System.out.println("Hello master branch!");
     }
 }
